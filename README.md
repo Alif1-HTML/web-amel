@@ -1,2 +1,0 @@
-# web-amel
-khusus amel
